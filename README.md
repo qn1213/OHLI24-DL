@@ -6,8 +6,11 @@ ani24 다운로더 배포
 dot net 6 (없으면 설치해야해요)
 
 이거 먼저 읽어야해요!!
+
 아래 경로에 폴더 2개를 만들어주셔야 합니다!!
-C:\SMB\testani\working\
+
+C:\SMB\testani\working
+
 C:\SMB\testani\save
 
 다운로드
